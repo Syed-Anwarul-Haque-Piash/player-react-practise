@@ -1,0 +1,22 @@
+.player img{
+    height: 200px;
+    height: 200px;
+}
+.player{
+    height: 450px;
+    border: 1px solid grey;
+    position: relative;
+}
+.player p,h1{
+    margin: 10px;
+}
+ button{
+  position: relative;
+  width: 100%;
+  position: absolute;
+  bottom: 0;
+  height: 40px;
+  background-color: brown;
+  color: beige;
+  font-weight: bold;
+}
